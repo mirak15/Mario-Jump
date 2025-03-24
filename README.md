@@ -1,3 +1,6 @@
 # Mario-Jump
 
-Me inspirei em alguns criadores de conteúdo do YouTube, que também tinham projetos semelhantes a esse, é muito simples e fácil de codar, utilizei o VS Code com HTML + CSS + Java Script.
+Inspirado em alguns projetos da web, este projeto é um mini game baseado no clássico Super Mario, ultilizei linguagem Java Script e também HTML e CSS, um projeto bem básico e fácil de fazer.
+HTML: index.html
+CSS: styles.css
+Java Script: script.js
